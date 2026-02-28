@@ -499,7 +499,10 @@ header nav ul {
   top: 90px;
 }
 
-
+.textDesign .h3,
+.textDesign .iconAndText {
+  /* margin-left: 30px; */
+}
 
 .textDesign .h3 {
   margin-top: 30px;
@@ -1623,4 +1626,4 @@ header nav ul {
 .Footer .FooterIcon ul li a.linkedin:hover{
   color: blue;
 }
-/* end Footer */    
+/* end Footer */ 
